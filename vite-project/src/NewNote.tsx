@@ -1,4 +1,5 @@
 import { NoteForm } from "./NoteForm"
+import { NoteData, Tag } from "./App"
 
 export function NewNote() {
     return (
