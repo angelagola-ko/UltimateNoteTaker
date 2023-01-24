@@ -25,7 +25,7 @@
   #### npm, react
 
 
-  ![Example Image](./images/ExampleImg.png)
+![image](https://user-images.githubusercontent.com/95582357/214436399-e46d8295-d023-4f04-936e-99e4a1cfce06.png)
 
 
   
